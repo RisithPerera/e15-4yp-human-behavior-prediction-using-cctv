@@ -1,5 +1,5 @@
 {
-   "title":"Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
+   "title":"Adaptive people movement and action prediction using CCTV to control appliances",
    "team":[
       {
          "name":"Risith Perera",
@@ -12,9 +12,9 @@
       {
          "name":"Isuru Sudasinghe",
          "email":"isuru.sudasinghe@eng.pdn.ac.lk",
-         "eNumber":"E/15/280",
-         "github_profile":"https://github.com/pubuduudara/",
-         "linkedin_profile":"https://www.linkedin.com/in/pubuduudara/",
+         "eNumber":"E/15/347",
+         "github_profile":"",
+         "linkedin_profile":"https://www.linkedin.com/in/isuru-uthpala-sudasinghe/",
          "researchgate_profile":"#"
       },
       {
@@ -27,17 +27,12 @@
       }
    ],
    "supervisors":[
+      
       {
-         "name":"Dr. Hasindu Gamaarachchi",
-         "email":"hasindu2008@gmail.com ",
-         "linkedin_profile":"https://www.linkedin.com/in/hasindugamaarachchi/",
-         "researchgate_profile":"https://www.researchgate.net/profile/Hasindu-Gamaarachchi-2"
-      },
-      {
-         "name":"Prof. Roshan Ragel",
-         "email":"roshanr@eng.pdn.ac.lk ",
-         "linkedin_profile":"https://www.linkedin.com/in/roshanragel/",
-         "researchgate_profile":"https://www.researchgate.net/profile/Roshan-Ragel"
+         "name":"Dr. Kamalanath Samarakoon",
+         "email":"kamalanath@eng.pdn.ac.lk  ",
+         "linkedin_profile":"https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+         "researchgate_profile":"https://www.researchgate.net/profile/Kamalanath-Samarakoon"
       }
    ],
    "publications":[
